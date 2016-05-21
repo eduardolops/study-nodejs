@@ -1,0 +1,24 @@
+{
+  "name": "study-nodejs",
+  "version": "0.0.1",
+  "description": "iniciando os estudos do nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardolops/study-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql"
+  ],
+  "author": "Eduardo Lopes",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/eduardolops/study-nodejs/issues"
+  },
+  "homepage": "https://github.com/eduardolops/study-nodejs#readme"
+}
