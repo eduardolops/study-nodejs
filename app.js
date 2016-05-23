@@ -26,7 +26,7 @@
 	app.use(middleware());
 	app.use(cookie());
 
-	let config {
+	let config = {
 		name: 'session-class',
 		secret: 'sesssion-class-study-of-node'
 	};
