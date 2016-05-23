@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/eduardolops/study-nodejs/issues"
   },
-  "homepage": "https://github.com/eduardolops/study-nodejs#readme"
+  "homepage": "https://github.com/eduardolops/study-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "connect-multiparty": "^2.0.0",
+    "cookie-parser": "^1.4.1",
+    "cookie-session": "^2.0.0-alpha.1",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^5.7.0",
+    "mysql": "^2.10.2"
+  }
 }
