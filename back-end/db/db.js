@@ -7,7 +7,7 @@
 	config = {
 			host: 'localhost'
 		,	user: 'root'
-		, 	pass: ''
+		, 	pass: 'root'
 		, 	database: '' 
 	}
 

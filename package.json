@@ -13,7 +13,9 @@
   "keywords": [
     "nodejs",
     "express",
-    "mysql"
+    "mysql",
+    "crud",
+    "study"
   ],
   "author": "Eduardo Lopes",
   "license": "WTFPL",

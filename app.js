@@ -51,7 +51,15 @@
     	console.log('Server up ======> ' + serverOline);
     });
 
+    /*
+     Rotas da API 
+     */
     let api = {};
+
+    api.user  = requre('./back-end/modules/user/routes');
+    // api.posts = requre('./back-end/modules/posts/routes.js');
+
+    api.use('/user',api.user);
 
     app.get( '*', (req, resp) => {
     	res.json({
